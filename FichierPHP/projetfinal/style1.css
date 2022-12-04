@@ -1,0 +1,47 @@
+body{
+    margin: 100px;
+    background-color: #3f506e;
+    font-family: 'Trebuchet MS';
+}
+.signup-box{
+    width: 360px;
+    height: 690px;
+    margin: auto;
+    border-radius: 3px;
+}
+
+h1{
+    text-align: center;
+    padding-top: 15px;
+}
+
+h4{
+    text-align: center;
+}
+
+form{
+    width: 300px;
+    margin-left: 20px;
+}
+
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+form input{
+    width: 100%;
+    padding: 7px;
+    border:none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+}
+p{
+    text-align: center;
+}
+a{
+    margin-right: 450px;
+    color: white;
+}
